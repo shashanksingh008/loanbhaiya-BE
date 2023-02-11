@@ -1,0 +1,22 @@
+{
+  "name": "loanbhaiyabe",
+  "version": "1.0.0",
+  "description": "a loan company",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashanksingh008/loanbhaiya-BE.git"
+  },
+  "keywords": [
+    "be"
+  ],
+  "author": "shashank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashanksingh008/loanbhaiya-BE/issues"
+  },
+  "homepage": "https://github.com/shashanksingh008/loanbhaiya-BE#readme"
+}
